@@ -1,0 +1,11 @@
+D:\Documentos - HD\Curso de C#\IntroducaoAoCSharpUmaAbordagemPratica\SimplePaint\bin\Release\SimplePaint.exe.config
+D:\Documentos - HD\Curso de C#\IntroducaoAoCSharpUmaAbordagemPratica\SimplePaint\bin\Release\SimplePaint.exe
+D:\Documentos - HD\Curso de C#\IntroducaoAoCSharpUmaAbordagemPratica\SimplePaint\bin\Release\SimplePaint.pdb
+D:\Documentos - HD\Curso de C#\IntroducaoAoCSharpUmaAbordagemPratica\SimplePaint\obj\Release\SimplePaint.Form1.resources
+D:\Documentos - HD\Curso de C#\IntroducaoAoCSharpUmaAbordagemPratica\SimplePaint\obj\Release\SimplePaint.Properties.Resources.resources
+D:\Documentos - HD\Curso de C#\IntroducaoAoCSharpUmaAbordagemPratica\SimplePaint\obj\Release\SimplePaint.csproj.GenerateResource.cache
+D:\Documentos - HD\Curso de C#\IntroducaoAoCSharpUmaAbordagemPratica\SimplePaint\obj\Release\SimplePaint.csproj.CoreCompileInputs.cache
+D:\Documentos - HD\Curso de C#\IntroducaoAoCSharpUmaAbordagemPratica\SimplePaint\obj\Release\SimplePaint.exe
+D:\Documentos - HD\Curso de C#\IntroducaoAoCSharpUmaAbordagemPratica\SimplePaint\obj\Release\SimplePaint.pdb
+D:\Documentos - HD\Curso de C#\IntroducaoAoCSharpUmaAbordagemPratica\SimplePaint\bin\Release\SimplePaint.exe.CodeAnalysisLog.xml
+D:\Documentos - HD\Curso de C#\IntroducaoAoCSharpUmaAbordagemPratica\SimplePaint\bin\Release\SimplePaint.exe.lastcodeanalysissucceeded

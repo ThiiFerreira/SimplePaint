@@ -1,0 +1,10 @@
+D:\Documentos - HD\Curso de C#\IntroducaoAoCSharpUmaAbordagemPratica\SimplePaint\bin\Debug\SimplePaint.exe.config
+D:\Documentos - HD\Curso de C#\IntroducaoAoCSharpUmaAbordagemPratica\SimplePaint\bin\Debug\SimplePaint.exe
+D:\Documentos - HD\Curso de C#\IntroducaoAoCSharpUmaAbordagemPratica\SimplePaint\bin\Debug\SimplePaint.pdb
+D:\Documentos - HD\Curso de C#\IntroducaoAoCSharpUmaAbordagemPratica\SimplePaint\obj\Debug\SimplePaint.csprojAssemblyReference.cache
+D:\Documentos - HD\Curso de C#\IntroducaoAoCSharpUmaAbordagemPratica\SimplePaint\obj\Debug\SimplePaint.Form1.resources
+D:\Documentos - HD\Curso de C#\IntroducaoAoCSharpUmaAbordagemPratica\SimplePaint\obj\Debug\SimplePaint.Properties.Resources.resources
+D:\Documentos - HD\Curso de C#\IntroducaoAoCSharpUmaAbordagemPratica\SimplePaint\obj\Debug\SimplePaint.csproj.GenerateResource.cache
+D:\Documentos - HD\Curso de C#\IntroducaoAoCSharpUmaAbordagemPratica\SimplePaint\obj\Debug\SimplePaint.csproj.CoreCompileInputs.cache
+D:\Documentos - HD\Curso de C#\IntroducaoAoCSharpUmaAbordagemPratica\SimplePaint\obj\Debug\SimplePaint.exe
+D:\Documentos - HD\Curso de C#\IntroducaoAoCSharpUmaAbordagemPratica\SimplePaint\obj\Debug\SimplePaint.pdb
